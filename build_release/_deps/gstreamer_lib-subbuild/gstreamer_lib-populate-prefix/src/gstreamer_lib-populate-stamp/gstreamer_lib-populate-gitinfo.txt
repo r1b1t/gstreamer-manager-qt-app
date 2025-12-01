@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=C:/msys64/mingw64/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-subbuild/gstreamer_lib-populate-prefix/tmp/gstreamer_lib-populate-gitclone.cmake
+source_dir=C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src
+work_dir=C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps
+repository=https://github.com/r1b1t/gstreamer-cpp-library.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+      

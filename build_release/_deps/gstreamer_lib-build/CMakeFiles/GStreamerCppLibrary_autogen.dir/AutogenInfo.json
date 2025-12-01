@@ -1,0 +1,124 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/GStreamerCppLibrary_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src",
+	"CMAKE_EXECUTABLE" : "C:/msys64/mingw64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/CMakeLists.txt",
+		"C:/msys64/mingw64/share/cmake/Modules/FindPkgConfig.cmake",
+		"C:/msys64/mingw64/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
+		"C:/msys64/mingw64/share/cmake/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/GStreamerCppLibrary_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "GStreamerCppLibrary_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/GStreamerCppLibrary_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/GStreamerCppLibrary_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "GStreamerCppLibrary_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/include",
+		"C:/msys64/mingw64/include/gstreamer-1.0",
+		"C:/msys64/mingw64/include/glib-2.0",
+		"C:/msys64/mingw64/lib/glib-2.0/include",
+		"C:/msys64/mingw64/include/orc-0.4",
+		"C:/msys64/mingw64/include/poppler/cpp",
+		"C:/msys64/mingw64/include/poppler",
+		"C:/msys64/mingw64/include/freetype2",
+		"C:/msys64/mingw64/include/harfbuzz",
+		"C:/msys64/mingw64/include/nss3",
+		"C:/msys64/mingw64/include/nspr",
+		"C:/msys64/mingw64/include/openjpeg-2.5",
+		"C:/msys64/mingw64/include/libpng16",
+		"C:/msys64/mingw64/include/webp",
+		"C:/msys64/mingw64/include",
+		"C:/msys64/mingw64/include/c++/15.2.0",
+		"C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32",
+		"C:/msys64/mingw64/include/c++/15.2.0/backward",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/msys64/mingw64/bin/c++.exe",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/GStreamerCppLibrary_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/CMakeFiles/GStreamerCppLibrary_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 10,
+	"SETTINGS_FILE" : "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/CMakeFiles/GStreamerCppLibrary_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/GStreamer/Manager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/GStreamer/PipelineBuilder.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/GStreamerRTSPServer/Manager.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/GStreamerRTSPServer/MediaHub.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/GStreamerRTSPServer/PipelineBuilder.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-src/src/Poppler/PDFRendererToPNG.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/form" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

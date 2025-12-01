@@ -1,0 +1,1 @@
+ -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lintl -lgstapp-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lintl -lgstrtspserver-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lintl -lpoppler-cpp -lgstapp-1.0 -lgstbase-1.0 -lgstrtspserver-1.0 -lpoppler-cpp -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

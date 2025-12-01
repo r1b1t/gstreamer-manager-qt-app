@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/cmake_install.cmake",
+		"C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

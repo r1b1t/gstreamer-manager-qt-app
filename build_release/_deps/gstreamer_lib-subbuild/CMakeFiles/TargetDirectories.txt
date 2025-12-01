@@ -1,0 +1,3 @@
+C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-subbuild/CMakeFiles/gstreamer_lib-populate.dir
+C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/_deps/gstreamer_lib-subbuild/CMakeFiles/rebuild_cache.dir
