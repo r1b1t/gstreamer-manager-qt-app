@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\GStreamerCppLibrary.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\GStreamerCppLibrary.dir/objects.a @CMakeFiles\GStreamerCppLibrary.dir\objects1.rsp
-C:\msys64\mingw64\bin\c++.exe -O3 -DNDEBUG -shared -o ..\..\libGStreamerCppLibrary.dll -Wl,--out-implib,libGStreamerCppLibrary.dll.a -Wl,--major-image-version,1,--minor-image-version,2 -Wl,--whole-archive CMakeFiles\GStreamerCppLibrary.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\GStreamerCppLibrary.dir\linkLibs.rsp

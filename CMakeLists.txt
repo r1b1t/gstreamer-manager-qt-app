@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.19)
 project(GStreamerGUI LANGUAGES CXX)
 
 # --- QT AYARLARI ---
-find_package(Qt6 6.5 REQUIRED COMPONENTS Core Widgets)
+find_package(Qt6 6.4 REQUIRED COMPONENTS Core Widgets)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
@@ -94,8 +94,14 @@ target_link_libraries(GStreamerGUI PRIVATE
 # --- DEPLOYMENT ---
 include(GNUInstallDirs)
 install(TARGETS GStreamerGUI BUNDLE DESTINATION . RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR} LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR})
-qt_generate_deploy_app_script(TARGET GStreamerGUI OUTPUT_SCRIPT deploy_script NO_UNSUPPORTED_PLATFORM_ERROR)
-install(SCRIPT ${deploy_script})
+
+# Bundles Qt DLLs next to the .exe (Windows-style deployment). On Linux the
+# app links the system Qt libraries, so no bundling step is needed, and the
+# NO_UNSUPPORTED_PLATFORM_ERROR argument isn't accepted by all Qt versions there.
+if(WIN32)
+    qt_generate_deploy_app_script(TARGET GStreamerGUI OUTPUT_SCRIPT deploy_script NO_UNSUPPORTED_PLATFORM_ERROR)
+    install(SCRIPT ${deploy_script})
+endif()
 
 
 

@@ -1,6 +1,0 @@
-set(__QT_DEPLOY_TARGET_GStreamerCppLibrary_FILE C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/libGStreamerCppLibrary.dll)
-set(__QT_DEPLOY_TARGET_GStreamerCppLibrary_TYPE SHARED_LIBRARY)
-set(__QT_DEPLOY_TARGET_GStreamerCppLibrary_RUNTIME_DLLS )
-set(__QT_DEPLOY_TARGET_GStreamerGUI_FILE C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/GStreamerGUI.exe)
-set(__QT_DEPLOY_TARGET_GStreamerGUI_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_GStreamerGUI_RUNTIME_DLLS C:/msys64/mingw64/bin/Qt6Widgets.dll;C:/Users/nberk/Desktop/Projeler/QT/GStreamerGUI/build_release/libGStreamerCppLibrary.dll;C:/msys64/mingw64/bin/Qt6Gui.dll;C:/msys64/mingw64/bin/Qt6Core.dll)
