@@ -1,4 +1,7 @@
 build/
+build_*/
+cmake-build-*/
+out/
 
 # C++ objects and libs
 *.slo
